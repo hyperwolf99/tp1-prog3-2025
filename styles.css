@@ -7,7 +7,7 @@ body{
 }
 
 /* elemento, elemento */
-h1, p{
+h2, p{
     color: orange;
 }
 
