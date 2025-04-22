@@ -2,6 +2,8 @@
 body{
     background-color: rgb(44, 44, 44);
     color: white;
+    margin: 0;
+    padding: 10px;
 }
 
 /* elemento, elemento */
