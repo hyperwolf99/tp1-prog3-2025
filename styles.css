@@ -4,6 +4,7 @@ body{
     color: white;
     margin: 0;
     padding: 10px;
+    font-size: 20px;
 }
 
 /* elemento, elemento */
@@ -15,12 +16,14 @@ h2, p{
 .ordenada ol{
     background-color: darkslateblue;
     font-size: 20px;
+    width: 5%;
 }
 
 /* elemento elemento */
 .desordenada ul{
     background-color: darkolivegreen;
     font-size: 20px;
+    width: 7%;
 }
 
 #titulo-principal {
